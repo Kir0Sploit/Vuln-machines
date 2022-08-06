@@ -18,13 +18,17 @@
 </div>
 <br>
 
-* Difficulty: Easy
-* Platform: Virtual Box
-* Size: 4.17 GB
-* DHCP Support & IP Auto assign
-* Use NAT Network
+This repository contains vulnerable machine for my personal portfolio . Below you'll find information about the machine. You can also download [Altair-Network](https://dragonforce.io/threads/boot2root-ctf-for-beginners-altair-network-walkthrough.13729/) here.
 
+| Difficulty | Platform | Size |
+|--|--|--|
+| Easy | Virtual Box | 4.17 GB |
 
-[Download](https://drive.google.com/file/d/1Xu1x-NcSc1Ty7Pd-z4sM0pzCCsMZ0_QY/view?usp=sharing)
+This machine also :
+ -    DHCP Support & IP Auto assign
+ -    Use NAT Network
+
+# Writeup
+You can also read Altair-Network writeup below:
 
 [Altair-Network Write up](https://dragonforce.io/threads/boot2root-ctf-for-beginners-altair-network-walkthrough.13729/)
