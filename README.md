@@ -18,7 +18,7 @@
 </div>
 <br>
 
-This repository contains vulnerable machine for my personal portfolio . Below you'll find information about the machine. You can also download [Altair-Network](https://dragonforce.io/threads/boot2root-ctf-for-beginners-altair-network-walkthrough.13729/) here.
+This repository contains vulnerable machine for my personal portfolio . Below you'll find information about the machine. You can also download [Altair-Network](https://drive.google.com/file/d/1Xu1x-NcSc1Ty7Pd-z4sM0pzCCsMZ0_QY/view?usp=sharing) here.
 
 | Difficulty | Platform | Size |
 |--|--|--|
