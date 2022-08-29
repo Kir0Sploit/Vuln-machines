@@ -9,7 +9,9 @@
 	<img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=black"/>
 	<img src="https://img.shields.io/badge/debian-A81D33.svg?style=for-the-badge&logo=debian&logoColor=white"/>
 	<h1>🖥 My Vulnerable Machines </h1>
+	<p>This repository contains vulnerable machine for my personal portfolio. Below you'll find information about the machine.</p>
 </div>
+<br>
 
 <div align="left"/>
 	<h3>Altair-Network Vulnerable Machine</h3>
@@ -18,7 +20,7 @@
 </div>
 <br>
 
-This repository contains vulnerable machine for my personal portfolio . Below you'll find information about the machine. You can also download [Altair-Network](https://drive.google.com/file/d/1Xu1x-NcSc1Ty7Pd-z4sM0pzCCsMZ0_QY/view?usp=sharing) here.
+ You can download [Altair-Network](https://drive.google.com/file/d/1Xu1x-NcSc1Ty7Pd-z4sM0pzCCsMZ0_QY/view?usp=sharing) here.
 
 | Difficulty | Platform | Size |
 |--|--|--|
